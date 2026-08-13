@@ -1,0 +1,9 @@
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="150" cy="150" r="140" fill="none" stroke="black" stroke-width="4"/>
+  <text x="150" y="50" font-family="Arial" font-size="16" fill="black" text-anchor="middle" font-weight="bold">UMHLANGA BAKEHOUSE</text>
+  <text x="150" y="270" font-family="Arial" font-size="14" fill="black" text-anchor="middle">EST. 2026</text>
+  <!-- Cupcake -->
+  <circle cx="150" cy="150" r="40" fill="black"/>
+  <rect x="130" y="150" width="40" height="30" fill="black"/>
+  <circle cx="150" cy="110" r="20" fill="black"/>
+</svg>
