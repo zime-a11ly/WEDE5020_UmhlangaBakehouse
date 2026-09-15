@@ -1,9 +1,12 @@
-<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
-  <circle cx="150" cy="150" r="140" fill="none" stroke="black" stroke-width="4"/>
-  <text x="150" y="50" font-family="Arial" font-size="16" fill="black" text-anchor="middle" font-weight="bold">UMHLANGA BAKEHOUSE</text>
-  <text x="150" y="270" font-family="Arial" font-size="14" fill="black" text-anchor="middle">EST. 2026</text>
-  <!-- Cupcake -->
-  <circle cx="150" cy="150" r="40" fill="black"/>
-  <rect x="130" y="150" width="40" height="30" fill="black"/>
-  <circle cx="150" cy="110" r="20" fill="black"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <circle cx="100" cy="100" r="95" fill="#FFF8F0" stroke="#3E2723" stroke-width="4"/>
+  <circle cx="100" cy="100" r="78" fill="none" stroke="#D7CCC8" stroke-width="1"/>
+  <!-- Bread Icon -->
+  <ellipse cx="100" cy="110" rx="35" ry="25" fill="#8D6E63"/>
+  <ellipse cx="100" cy="95" rx="22" ry="18" fill="#A1887F"/>
+  <ellipse cx="100" cy="85" rx="10" ry="10" fill="#D7CCC8"/>
+  <!-- Text -->
+  <text x="100" y="35" text-anchor="middle" font-family="Arial" font-weight="bold" font-size="14" fill="#3E2723">UMHLANGA</text>
+  <text x="100" y="170" text-anchor="middle" font-family="Arial" font-weight="bold" font-size="12" fill="#3E2723">BAKEHOUSE</text>
+  <text x="100" y="183" text-anchor="middle" font-family="Arial" font-size="8" fill="#8D6E63">EST. 2025</text>
 </svg>
