@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /docs/
+Disallow: /tests/
+Sitemap: https://zime-a11ly.github.io/WEDE5020_UmhlangaBakehouse/sitemap.xml

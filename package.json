@@ -1,0 +1,12 @@
+{
+  "name": "umhlanga-bakehouse",
+  "version": "3.0.0",
+  "private": true,
+  "description": "Umhlanga Bakehouse website — Part 3 functionality and SEO",
+  "scripts": {
+    "start": "node --env-file-if-exists=.env server.mjs",
+    "dev": "node server.mjs",
+    "test": "node --test tests/site.test.mjs"
+  },
+  "engines": {"node": ">=22.9.0"}
+}
